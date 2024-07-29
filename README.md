@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelagustinn&label=Profile%20views&color=0e75b6&style=flat" alt="michaelagustinn" /> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **JavaScript and PHP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MichaelAgustinn/MichaelAgustinn.github.io](https://github.com/MichaelAgustinn/MichaelAgustinn.github.io)
-
-- 📝 I regularly write articles on [https://miikyyy.blogspot.com/](https://miikyyy.blogspot.com/)
+- 👨‍💻 My Article [https://miikyyy.blogspot.com/](https://miikyyy.blogspot.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
