@@ -9,7 +9,7 @@
   />
 </h1>
 
-<br />
+<br /> <br/>
 <div align="center">
   <img
     src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" height="30"
@@ -19,11 +19,8 @@
   /><br />
 </div>
 
-<br />
-<hr />
+<br /> <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
 <div align="center">
   <img
     width="325"
@@ -33,13 +30,9 @@
   />
 </div>
 
-<br /><br />
-
-<hr />
+<br />
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-
 <img
     alt="snake eating my contributions"
     src="https://raw.githubusercontent.com/MichaelAgustinn/MichaelAgustinn/output/github-contribution-grid-snake.svg"
