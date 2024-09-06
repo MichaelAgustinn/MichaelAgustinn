@@ -38,7 +38,7 @@
     src="https://raw.githubusercontent.com/MichaelAgustinn/MichaelAgustinn/output/github-contribution-grid-snake.svg"
   />
 
-<br /><br /><br />
+<br />
 
 </div>
 
