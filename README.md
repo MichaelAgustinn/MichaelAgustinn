@@ -12,7 +12,7 @@
 <br /> <br/>
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=bootstrap,html,scss,css,vscode,github,figma,git" height="30"
+    src="https://skillicons.dev/icons?i=bootstrap,html,css,scss,vscode,github,figma,git" height="30"
   />
   <img
     src="https://skillicons.dev/icons?i=python,javascript,express,cpp,java,mysql,php,laravel,flutter" height="30"
