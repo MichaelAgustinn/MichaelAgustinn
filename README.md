@@ -16,9 +16,7 @@
   />
   <img
     src="https://skillicons.dev/icons?i=python,javascript,express,cpp,java,mysql,php,laravel,flutter" height="30"
-  /><img src="https://cdn.simpleicons.org/coreldraw/47A147" alt="CorelDRAW" height="40" />
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" height="40" />
-<img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" alt="Premiere Pro" height="40" /><br />
+  /><br />
 </div>
 
 <br /> <br/>
