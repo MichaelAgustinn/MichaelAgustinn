@@ -21,8 +21,6 @@
 
 <br /> <br/>
 
-<br />
-
 <div align="center">
 <img
     alt="snake eating my contributions"
